@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ashra721/reflection-blog/posts/my-first-post/</loc>
-    <lastmod>2026-03-04T12:34:48+05:30</lastmod>
+    <loc>https://github.com/ashra721/reflection-blog/posts/introduction/</loc>
+    <lastmod>2026-04-09T00:02:31+05:30</lastmod>
   </url><url>
     <loc>https://github.com/ashra721/reflection-blog/</loc>
-    <lastmod>2026-03-04T12:34:48+05:30</lastmod>
+    <lastmod>2026-04-09T00:02:31+05:30</lastmod>
   </url><url>
     <loc>https://github.com/ashra721/reflection-blog/posts/</loc>
+    <lastmod>2026-04-09T00:02:31+05:30</lastmod>
+  </url><url>
+    <loc>https://github.com/ashra721/reflection-blog/posts/my-first-post/</loc>
     <lastmod>2026-03-04T12:34:48+05:30</lastmod>
   </url><url>
     <loc>https://github.com/ashra721/reflection-blog/categories/</loc>

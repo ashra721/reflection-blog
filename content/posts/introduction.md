@@ -1,0 +1,20 @@
++++
+date = '2026-04-09T00:02:31+05:30'
+draft = false
+title = 'Introduction'
++++
+
+### Introduction
+
+ Hi this is Ashra an Information Sciences Student at Azim Premji university, Bengaluru
+Welcome to My Blog!
+
+This is a blog or more like a space where I share my learning journey through the course.
+I'm excited to put down this course journey over this platform.
+
+As I go through my classes, I do come across many new ideas and concepts will write about them in my own words so that I can understand and reflect them better and also share them with others.
+
+In this blog, I will write about what I learn in my course, what I find interesting ,what I found new, what confuses me, and one of the most important question as a reader that does information sciences make sense or worth your time and hardwork. I will keep things simple and honest because this is not a textbook — it is just me, writing about my experience as a student.
+
+I believe that learning is more fun and exciting when you discuss or talk about it with someone who is interested. this blog is my way of thinking about the classes and experiences.
+Thanks for visiting, and I hope you enjoy reading!
