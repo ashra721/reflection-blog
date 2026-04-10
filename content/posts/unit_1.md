@@ -1,0 +1,24 @@
++++
+date = '2026-04-10T14:20:24+05:30'
+draft = false
+title = 'From Data to Wisdom'
++++
+### From Data to Wisdom: My Unit 1 Reflections
+
+ For the first that took place in Tuesday evening i was really excited to know what does the course name mean "Becoming a reflective Information Scientist'.
+ 
+on the first lecture we discussed what is information. 
+I saw a few pictures which showed how important it is to represent data in a correct manner .Next we stepped on the
+DIKW model : data ,information ,knowledge wisdom we used a pyramid to discuss before
+I thought data and information are more or less the same but came to know that these are different entities.
+
+We also analysed the census education data of Bangalore,and worked on it using excel some basic thing 
+i knew but while working in it i came to know many different keys and functions we can perform on it it was 
+really interesting for me to make graph and analyse.
+We were also exposed to wiki in the first lab .
+Iworked on markdown for the very first time it was 
+fascinating for me to write equation on it which i always wanted to learn.For the lab works we were divided into groups and we worked together discussing .
+I liked the lab for the course Moving on we kept practicing 
+on wiki.
+And then GitHub was introduced it was a completely new for me to work on but gradually I got my
+account set up and here I am sharing on it. for now course is going well waiting to see more new things ahead.      
