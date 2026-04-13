@@ -1,0 +1,6 @@
++++
+date = '2026-04-13T23:05:13+05:30'
+draft = false
+title = 'The hike of Chatbot'
++++
+While searching for customer care services, I always wonder how fascinating the idea of a chatbot is and how someone would have created it. Is it easy!! And here I am with my reflection after creating a chatbot answering my own character that I enjoyed . The instructor provided us the acess for a tool called Typebot and described it with two features that it is accessible and extensible, which implies that I don't even need to use coding and I can customise anything as I want. For the first time, it was somewhere overwhelming to work on the typebot, but then gradually I kept on exploring new errors and came up with it's solution. This project was one of the easiest projects I have worked on till date. We were provided with two topics I decided to work on a chatbot that will engage students who are interested in getting admission in my university. It was more like a game or a puzzle that I was working on by joining all the blocks one by one. Since the instructor did not restricted with strong guidelines to stick on therefore, I was able to come up with a product I designed on my own. So this was a small update on the little project of creating a chatbot.

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:20:37 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:05:13 +0530</lastBuildDate>
     <atom:link href="https://github.com/ashra721/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The hike of Chatbot</title>
+      <link>https://github.com/ashra721/reflection-blog/posts/chatbot/</link>
+      <pubDate>Mon, 13 Apr 2026 23:05:13 +0530</pubDate>
+      <guid>https://github.com/ashra721/reflection-blog/posts/chatbot/</guid>
+      <description>&lt;p&gt;While searching for customer care services, I always wonder how fascinating the idea of a chatbot is and how someone would have created it. Is it easy!! And here I am with my reflection after creating a chatbot answering my own character that I enjoyed . The instructor provided us the acess for a tool called Typebot and described it with two features that it is accessible and extensible, which implies that I don&amp;rsquo;t even need to use coding and I can customise anything as I want. For the first time, it was somewhere overwhelming to work on the typebot, but then gradually I kept on exploring new errors and came up with it&amp;rsquo;s solution. This project was one of the easiest projects I have worked on till date. We were provided with two topics I decided to work on a chatbot that will engage students who are interested in getting admission in my university. It was more like a game or a puzzle that I was working on by joining all the blocks one by one. Since the instructor did not restricted with strong guidelines to stick on therefore, I was able to come up with a product I designed on my own. So this was a small update on the little project of creating a chatbot.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://github.com/ashra721/reflection-blog/posts/introduction/</link>
