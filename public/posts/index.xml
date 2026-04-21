@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 23:05:13 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:55:42 +0530</lastBuildDate>
     <atom:link href="https://github.com/ashra721/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Metabase Trek</title>
+      <link>https://github.com/ashra721/reflection-blog/posts/metabase/</link>
+      <pubDate>Tue, 21 Apr 2026 23:55:42 +0530</pubDate>
+      <guid>https://github.com/ashra721/reflection-blog/posts/metabase/</guid>
+      <description>&lt;p&gt;Just after the week I got see something that was extremely new to me. I have never thought of what my working experience will be like using a metabase to design a dashboard . I don’t want to say that is was easy and stuff like that. For me, it felt like a small kid given lots of colour pallets with all kinds of brushes, which if he knew how to use he could get an incredibly beautiful art piece, but the thing is that he dont’t know the skill to hold a brush while painting. Which is one of the most important things to know, even though he had so many ideas to design, but he couldn’t.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The hike of Chatbot</title>
       <link>https://github.com/ashra721/reflection-blog/posts/chatbot/</link>
