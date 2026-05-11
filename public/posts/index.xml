@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://github.com/ashra721/reflection-blog/posts/</link>
+    <link>http://localhost:1313/ashra721/reflection-blog/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 22:16:27 +0530</lastBuildDate>
-    <atom:link href="https://github.com/ashra721/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2026 22:19:29 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/ashra721/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End of the Journey:Analysis,Reflection and Desiging</title>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/unit_5/</link>
+      <pubDate>Mon, 11 May 2026 22:19:29 +0530</pubDate>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/unit_5/</guid>
+      <description>&lt;p&gt;Coming toward the end of the journey of the course which was revlovling around presentations.Although all the presentation were informative and enaging. One of the most intersenting presentation topics was related to women empowerment  by broadly discussing their roles in IT sector and challenges faced by women. It was surprising for me to know that even in this  fast forward generation yet CS has been a male dominated feild,where people think that computers are only for men . The blind spots within the system due to lack of diversity while desinging the system is somthing got questions in my head.&#xA;one thing that was more intersting than the presentation was the Q&amp;amp;A part were the instroctor told how she finds difficulties in using her phone with one hand this is somthing I also face but though I have a small palm and hence I used to use both my hands.But never thought another way the way she analysed such a small thing and criticised  the way of desinging instead of blaming herself . This was a live example of ways in which women may feel not feel confident using the system more comfortable.&#xA;Here we come to end of the journey with a task to design the environment in more diverse way exclusively.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Waves of Brainstrom</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/unit_4/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/unit_4/</link>
       <pubDate>Mon, 11 May 2026 22:16:27 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/unit_4/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/unit_4/</guid>
       <description>&lt;p&gt;Unit four has been my favorite part for the course so far. In this unit I encountered quite diffrent challenges, challenges that were different from what I used to face while working. Since we were given to work on two different projects the first one was desinging a chatbot on typebot and the second was desinging a dashboard using metabase. And the moment I got to know about these projects I was blank for that point of time. Even though I have seen a chatbot but never knew how to make one and for the dashboard it was a complete new thing to me.Although I was new to these things but more excited to work on. Finally got an assesment in which don&amp;rsquo;t just have to just do the reading, analysing and stuff but was some felt like an wave in the course.&#xA;I personally liked to work on chatbot more than the database. Since I always wondered have these self answering conversations are desinged,no extraordinary coding skills were required.We were also not given strict guidelines so I tried to coustomise it the way I thougth to engage the user in a better way.The best thing happed during this project is I was able to debug the errors and over come the challenges.&#xA;Talking about the second project it was more challenging for me. Analysing the given data and coming up with relevent question with a suitable expected visual answer representation was a challenge in itself . Apart from that I encountered new things including different ways of visualisatioons using maps and graphs which although seems simple to desing but need a lot of analysis and brainstroming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Metabase Trek</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/metabase/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/metabase/</link>
       <pubDate>Tue, 21 Apr 2026 23:55:42 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/metabase/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/metabase/</guid>
       <description>&lt;p&gt;Just after the week I got see something that was extremely new to me. I have never thought of what my working experience will be like using a metabase to design a dashboard . I don’t want to say that is was easy and stuff like that. For me, it felt like a small kid given lots of colour pallets with all kinds of brushes, which if he knew how to use he could get an incredibly beautiful art piece, but the thing is that he dont’t know the skill to hold a brush while painting. Which is one of the most important things to know, even though he had so many ideas to design, but he couldn’t.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The hike of Chatbot</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/chatbot/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/chatbot/</link>
       <pubDate>Mon, 13 Apr 2026 23:05:13 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/chatbot/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/chatbot/</guid>
       <description>&lt;p&gt;While searching for customer care services, I always wonder how fascinating the idea of a chatbot is and how someone would have created it. Is it easy!! And here I am with my reflection after creating a chatbot answering my own character that I enjoyed . The instructor provided us the acess for a tool called Typebot and described it with two features that it is accessible and extensible, which implies that I don&amp;rsquo;t even need to use coding and I can customise anything as I want. For the first time, it was somewhere overwhelming to work on the typebot, but then gradually I kept on exploring new errors and came up with it&amp;rsquo;s solution. This project was one of the easiest projects I have worked on till date. We were provided with two topics I decided to work on a chatbot that will engage students who are interested in getting admission in my university. It was more like a game or a puzzle that I was working on by joining all the blocks one by one. Since the instructor did not restricted with strong guidelines to stick on therefore, I was able to come up with a product I designed on my own. So this was a small update on the little project of creating a chatbot.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/introduction/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/introduction/</link>
       <pubDate>Fri, 10 Apr 2026 14:20:37 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/introduction/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/introduction/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Hi this is Ashra an Information Sciences Student at Azim Premji university, Bengaluru&#xA;Welcome to My Blog!&lt;/p&gt;&#xA;&lt;p&gt;This is a blog or more like a space where I share my learning journey through the course.&#xA;I&amp;rsquo;m excited to put down this course journey over this platform.&lt;/p&gt;&#xA;&lt;p&gt;As I go through my classes, I do come across many new ideas and concepts will write about them in my own words so that I can understand and reflect them better and also share them with others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Journey from failure to figuring</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/unit_3/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/unit_3/</link>
       <pubDate>Fri, 10 Apr 2026 14:20:31 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/unit_3/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/unit_3/</guid>
       <description>&lt;p&gt;unit 3 : journey from failure to figuring&#xA;The name of the unit is &amp;ldquo;reflecting on failure&amp;rdquo; which was kind of relatable ok so this unit&#xA;was a little different for me it was short but helped me learn a lot . We were again divided into groups of five and were asked to read a part of a book and the book it was an amazing book for students . The book was about real incidents of failure and how people&#xA;figured it out.&#xA;My experience with the book reading didn&amp;rsquo;t ended up with just ending up doing the assigned task and&#xA;contributing for the group .&lt;/p&gt;</description>
     </item>
     <item>
       <title>The nature of information problem</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/unit_2/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/unit_2/</link>
       <pubDate>Fri, 10 Apr 2026 14:20:27 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/unit_2/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/unit_2/</guid>
       <description>&lt;h3 id=&#34;the-second-was-the-nature-of-information-problem&#34;&gt;The second was &amp;ldquo;The nature of information problem&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;In the first class we had fun with images we were given a set of code onwhich we worked upon we disscusses&#xA;bsiscs of pixels , gray scale images and analysed the number we also had &amp;lsquo;contrast&amp;rsquo; in our discussion using histograms&#xA;we distinguised  between images looking at the intensity value it was something new for me but i was ok working with it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Data to Wisdom</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/unit_1/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/unit_1/</link>
       <pubDate>Fri, 10 Apr 2026 14:20:24 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/unit_1/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/unit_1/</guid>
       <description>&lt;h3 id=&#34;from-data-to-wisdom-my-unit-1-reflections&#34;&gt;From Data to Wisdom: My Unit 1 Reflections&lt;/h3&gt;&#xA;&lt;p&gt;For the first that took place in Tuesday evening i was really excited to know what does the course name mean &amp;ldquo;Becoming a reflective Information Scientist&#39;.&lt;/p&gt;&#xA;&lt;p&gt;on the first lecture we discussed what is information.&#xA;I saw a few pictures which showed how important it is to represent data in a correct manner .Next we stepped on the&#xA;DIKW model : data ,information ,knowledge wisdom we used a pyramid to discuss before&#xA;I thought data and information are more or less the same but came to know that these are different entities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://github.com/ashra721/reflection-blog/posts/my-first-post/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/posts/my-first-post/</link>
       <pubDate>Wed, 04 Mar 2026 12:34:48 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Ashra!&lt;/p&gt;</description>
     </item>
   </channel>

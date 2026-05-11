@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contents on My New Hugo Site</title>
-    <link>https://github.com/ashra721/reflection-blog/content/</link>
+    <link>http://localhost:1313/ashra721/reflection-blog/content/</link>
     <description>Recent content in Contents on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 May 2026 11:00:23 +0530</lastBuildDate>
-    <atom:link href="https://github.com/ashra721/reflection-blog/content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ashra721/reflection-blog/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The waves of brainstroms</title>
-      <link>https://github.com/ashra721/reflection-blog/content/posts/unit_4/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_4/</link>
       <pubDate>Mon, 11 May 2026 11:00:23 +0530</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/content/posts/unit_4/</guid>
+      <guid>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_4/</guid>
       <description>&lt;p&gt;Unit four has been my favorite part for the course so far. In this unit I encountered quite diffrent challenges, challenges that were different from what I used to face while working. Since we were given to work on two different projects the first one was desinging a chatbot on typebot and the second was desinging a dashboard using metabase. And the moment I got to know about these projects I was blank for that point of time. Even though I have seen a chatbot but never knew how to make one and for the dashboard it was a complete new thing to me.Although I was new to these things but more excited to work on. Finally got an assesment in which don&amp;rsquo;t just have to just do the reading, analysing and stuff but was some felt like an wave in the course.&#xA;I personally liked to work on chatbot more than the database. Since I always wondered have these self answering conversations are desinged,no extraordinary coding skills were required.We were also not given strict guidelines so I tried to coustomise it the way I thougth to engage the user in a better way.The best thing happed during this project is I was able to debug the errors and over come the challenges.&#xA;Talking about the second project it was more challenging for me. Analysing the given data and coming up with relevent question with a suitable expected visual answer representation was a challenge in itself . Apart from that I encountered new things including different ways of visualisatioons using maps and graphs which although seems simple to desing but need a lot of analysis and brainstroming.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Unit_3</title>
+      <link>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_3/</link>
+      <pubDate>Mon, 11 May 2026 10:58:38 +0530</pubDate>
+      <guid>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title></title>
-      <link>https://github.com/ashra721/reflection-blog/content/posts/unit_5/</link>
+      <link>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/ashra721/reflection-blog/content/posts/unit_5/</guid>
-      <description>&lt;p&gt;``+++&#xA;date = &amp;lsquo;2026-05-11T18:35:33+05:30&amp;rsquo;&#xA;draft = true&#xA;title = &amp;lsquo;&amp;lsquo;End of the Journey:Analysis,Reflection and Desiging &amp;quot;&#xA;+++&#xA;Coming toward the end of the journey of the course which was revlovling around presentations.Although all the presentation were informative and enaging. One of the most intersenting presentation topics was related to women empowerment  by broadly discussing their roles in IT sector and challenges faced by women. It was surprising for me to know that even in this  fast forward generation yet CS has been a male dominated feild,where people think that computers are only for men . The blind spots within the system due to lack of diversity while desinging the system is somthing got questions in my head.&#xA;one thing that was more intersting than the presentation was the Q&amp;amp;A part were the instroctor told how she finds difficulties in using her phone with one hand this is somthing I also face but though I have a small palm and hence I used to use both my hands.But never thought another way the way she analysed such a small thing and criticised  the way of desinging instead of blaming herself . This was a live example of ways in which women may feel not feel confident using the system more comfortable.&#xA;Here we come to end of the journey with a task to design the environment in more diverse way exclusively.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ashra721/reflection-blog/content/posts/unit_5/</guid>
+      <description>&lt;p&gt;``+++&#xA;date = &amp;lsquo;2026-05-11T18:35:33+05:30&amp;rsquo;&#xA;draft = false&#xA;title = &amp;lsquo;&amp;lsquo;End of the Journey:Analysis,Reflection and Desiging &amp;quot;&#xA;+++&#xA;Coming toward the end of the journey of the course which was revlovling around presentations.Although all the presentation were informative and enaging. One of the most intersenting presentation topics was related to women empowerment  by broadly discussing their roles in IT sector and challenges faced by women. It was surprising for me to know that even in this  fast forward generation yet CS has been a male dominated feild,where people think that computers are only for men . The blind spots within the system due to lack of diversity while desinging the system is somthing got questions in my head.&#xA;one thing that was more intersting than the presentation was the Q&amp;amp;A part were the instroctor told how she finds difficulties in using her phone with one hand this is somthing I also face but though I have a small palm and hence I used to use both my hands.But never thought another way the way she analysed such a small thing and criticised  the way of desinging instead of blaming herself . This was a live example of ways in which women may feel not feel confident using the system more comfortable.&#xA;Here we come to end of the journey with a task to design the environment in more diverse way exclusively.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
