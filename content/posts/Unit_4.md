@@ -1,0 +1,8 @@
++++
+date = '2026-05-11T22:16:27+05:30'
+draft = false
+title = 'Waves of Brainstrom'
++++
+Unit four has been my favorite part for the course so far. In this unit I encountered quite diffrent challenges, challenges that were different from what I used to face while working. Since we were given to work on two different projects the first one was desinging a chatbot on typebot and the second was desinging a dashboard using metabase. And the moment I got to know about these projects I was blank for that point of time. Even though I have seen a chatbot but never knew how to make one and for the dashboard it was a complete new thing to me.Although I was new to these things but more excited to work on. Finally got an assesment in which don't just have to just do the reading, analysing and stuff but was some felt like an wave in the course.
+I personally liked to work on chatbot more than the database. Since I always wondered have these self answering conversations are desinged,no extraordinary coding skills were required.We were also not given strict guidelines so I tried to coustomise it the way I thougth to engage the user in a better way.The best thing happed during this project is I was able to debug the errors and over come the challenges.
+Talking about the second project it was more challenging for me. Analysing the given data and coming up with relevent question with a suitable expected visual answer representation was a challenge in itself . Apart from that I encountered new things including different ways of visualisatioons using maps and graphs which although seems simple to desing but need a lot of analysis and brainstroming.

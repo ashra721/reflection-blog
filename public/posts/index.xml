@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 23:55:42 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:16:27 +0530</lastBuildDate>
     <atom:link href="https://github.com/ashra721/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waves of Brainstrom</title>
+      <link>https://github.com/ashra721/reflection-blog/posts/unit_4/</link>
+      <pubDate>Mon, 11 May 2026 22:16:27 +0530</pubDate>
+      <guid>https://github.com/ashra721/reflection-blog/posts/unit_4/</guid>
+      <description>&lt;p&gt;Unit four has been my favorite part for the course so far. In this unit I encountered quite diffrent challenges, challenges that were different from what I used to face while working. Since we were given to work on two different projects the first one was desinging a chatbot on typebot and the second was desinging a dashboard using metabase. And the moment I got to know about these projects I was blank for that point of time. Even though I have seen a chatbot but never knew how to make one and for the dashboard it was a complete new thing to me.Although I was new to these things but more excited to work on. Finally got an assesment in which don&amp;rsquo;t just have to just do the reading, analysing and stuff but was some felt like an wave in the course.&#xA;I personally liked to work on chatbot more than the database. Since I always wondered have these self answering conversations are desinged,no extraordinary coding skills were required.We were also not given strict guidelines so I tried to coustomise it the way I thougth to engage the user in a better way.The best thing happed during this project is I was able to debug the errors and over come the challenges.&#xA;Talking about the second project it was more challenging for me. Analysing the given data and coming up with relevent question with a suitable expected visual answer representation was a challenge in itself . Apart from that I encountered new things including different ways of visualisatioons using maps and graphs which although seems simple to desing but need a lot of analysis and brainstroming.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Metabase Trek</title>
       <link>https://github.com/ashra721/reflection-blog/posts/metabase/</link>
